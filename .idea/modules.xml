@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Basics_01/Basics_01.iml" filepath="$PROJECT_DIR$/Basics_01/Basics_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Conditionals_And_Loops/Conditionals_And_Loops.iml" filepath="$PROJECT_DIR$/Conditionals_And_Loops/Conditionals_And_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA_COURSE_KK.iml" filepath="$PROJECT_DIR$/.idea/DSA_COURSE_KK.iml" />
+    </modules>
+  </component>
+</project>
