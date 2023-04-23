@@ -3,7 +3,7 @@ package com.hemant;
 public class Main {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 4, 5 ,6};
-        System.out.println(linearSearch(nums, 4));
+        System.out.println(linearSearch(nums, 43));
     }
 
     // search in the array: return the index if item found other -1 if item not found
